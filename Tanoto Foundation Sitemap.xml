@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-07T06:56:04.243Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="ozXsy8gFapo218q0UT7I" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-07T06:58:33.665Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="m0AhYd3PdnpxLuMhXAhG" version="14.8.4" type="github">
   <diagram name="Page-1" id="2c0d36ab-eaac-3732-788b-9136903baeff">
     <mxGraphModel dx="1240" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -80,13 +80,13 @@
           <mxGeometry x="280" y="680" width="160" height="75.5" as="geometry" />
         </mxCell>
         <mxCell id="41" value="Sigap" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
-          <mxGeometry x="550" y="560" width="130" height="60" as="geometry" />
+          <mxGeometry x="540" y="555.5" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="42" value="Champ" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
-          <mxGeometry x="550" y="645.5" width="130" height="60" as="geometry" />
+          <mxGeometry x="540" y="645.5" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="43" value="Hope" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
-          <mxGeometry x="550" y="730" width="130" height="65.5" as="geometry" />
+          <mxGeometry x="540" y="730" width="130" height="65.5" as="geometry" />
         </mxCell>
         <mxCell id="44" value="SI" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="1217" y="455.50000000000006" width="130" height="60" as="geometry" />
@@ -300,6 +300,7 @@
             <mxPoint x="690" y="500" as="sourcePoint" />
             <mxPoint x="77" y="135.5" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="700" y="600" />
               <mxPoint x="720" y="680" />
               <mxPoint x="720" y="690" />
               <mxPoint x="720" y="650" />
@@ -311,6 +312,8 @@
             <mxPoint x="680" y="500" as="sourcePoint" />
             <mxPoint x="-360" y="360" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="700" y="610" />
+              <mxPoint x="710" y="640" />
               <mxPoint x="720" y="700" />
               <mxPoint x="520" y="810" />
             </Array>
@@ -488,7 +491,7 @@
           <mxGeometry x="525" y="460" width="160" height="75.5" as="geometry" />
         </mxCell>
         <mxCell id="YbQQEZ05Y1JLPwEbtcnD-152" value="Pendidikan Dasar" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
-          <mxGeometry x="525" y="840" width="160" height="80.25" as="geometry" />
+          <mxGeometry x="525" y="875.5" width="160" height="80.25" as="geometry" />
         </mxCell>
         <mxCell id="YbQQEZ05Y1JLPwEbtcnD-153" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeWidth=2;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="10" target="YbQQEZ05Y1JLPwEbtcnD-152">
           <mxGeometry x="237" y="155.5" width="100" height="100" as="geometry">
@@ -516,19 +519,22 @@
             <mxPoint x="687" y="500" as="sourcePoint" />
             <mxPoint x="687" y="680" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="700" y="586" />
+              <mxPoint x="710" y="560" />
               <mxPoint x="720" y="610" />
               <mxPoint x="537" y="600" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="YbQQEZ05Y1JLPwEbtcnD-157" value="Pintar" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
-          <mxGeometry x="540" y="941" width="130" height="54.5" as="geometry" />
+          <mxGeometry x="540" y="976.5" width="130" height="54.5" as="geometry" />
         </mxCell>
         <mxCell id="YbQQEZ05Y1JLPwEbtcnD-158" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="YbQQEZ05Y1JLPwEbtcnD-157" source="YbQQEZ05Y1JLPwEbtcnD-152">
           <mxGeometry x="217" y="435.5" width="100" height="100" as="geometry">
             <mxPoint x="605" y="660" as="sourcePoint" />
             <mxPoint x="317" y="435.5" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="690" y="970" />
               <mxPoint x="710" y="920" />
               <mxPoint x="490" y="750" />
               <mxPoint x="480" y="900" />
