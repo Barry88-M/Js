@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-07T06:21:22.138Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="ONe5ZDlEAkhCCTcFYPfD" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-07T06:25:14.531Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="zQrCR1Hsc0Gd_8cISEMd" version="14.8.4" type="github">
   <diagram name="Page-1" id="2c0d36ab-eaac-3732-788b-9136903baeff">
     <mxGraphModel dx="1240" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -79,14 +79,14 @@
         <mxCell id="23" value="Data Collection" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="37" y="895.4999999999999" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="26" value="Mengembangkan Potensi" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
-          <mxGeometry x="300" y="440" width="160" height="80" as="geometry" />
+        <mxCell id="26" value="Mengembangkan &#xa;Potensi&#xa;Individu" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="277.5" y="460" width="160" height="75.5" as="geometry" />
         </mxCell>
-        <mxCell id="27" value="Client / Server" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
-          <mxGeometry x="310" y="545.5" width="130" height="60" as="geometry" />
+        <mxCell id="27" value="Memberdayakan&#xa;Komunitas" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="275" y="570" width="165" height="80.25" as="geometry" />
         </mxCell>
-        <mxCell id="28" value="Data Collection" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
-          <mxGeometry x="310" y="645.5" width="130" height="60" as="geometry" />
+        <mxCell id="28" value="Meningkatkan &#xa;Taraf&#xa;Hidup" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="280" y="680" width="160" height="75.5" as="geometry" />
         </mxCell>
         <mxCell id="29" value="SSI" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="592" y="455.5" width="130" height="60" as="geometry" />
@@ -544,6 +544,20 @@
             <mxPoint x="1365" y="335" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1572" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YbQQEZ05Y1JLPwEbtcnD-149" value="Membangun&#xa;Kemitraan" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+          <mxGeometry x="280" y="790" width="160" height="75.5" as="geometry" />
+        </mxCell>
+        <mxCell id="YbQQEZ05Y1JLPwEbtcnD-150" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeWidth=2;rounded=0" edge="1" parent="1" target="YbQQEZ05Y1JLPwEbtcnD-149">
+          <mxGeometry x="-23" y="245.5" width="100" height="100" as="geometry">
+            <mxPoint x="240" y="500" as="sourcePoint" />
+            <mxPoint x="77" y="245.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="710" />
+              <mxPoint x="260" y="740" />
+              <mxPoint x="397" y="725.5" />
             </Array>
           </mxGeometry>
         </mxCell>
